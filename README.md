@@ -36,4 +36,4 @@ This project uses 3 datasets in total:
 |  |  | 
 |  |  | 
 
-[PlDs]: <[https://github.com/NitanTanta/BAIS3250_Project/blob/main/Data/README.md]>
+[PlDs]: https://github.com/NitanTanta/BAIS3250_Project/blob/main/Data/README.md
