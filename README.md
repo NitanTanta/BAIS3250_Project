@@ -31,9 +31,8 @@ This project uses 3 datasets in total:
 ### Table of Content
 | Main | README |
 | ------ | ------ |
-| Dataset | [main/Data/README.md][PlDs] | 
-|  |  | 
-|  |  | 
-|  |  | 
+| Dataset | [main/Data/README.md][MaDs] | 
+| Jupyter Notebook | [main/Jupyter Notebook/README.md][MaJn] | 
 
-[PlDs]: https://github.com/NitanTanta/BAIS3250_Project/blob/main/Data/README.md
+[MaDs]: https://github.com/NitanTanta/BAIS3250_Project/blob/main/Data/README.md
+[MaJn]: https://github.com/NitanTanta/BAIS3250_Project/blob/main/Jupyter%20Notebook/README.md
