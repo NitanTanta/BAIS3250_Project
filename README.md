@@ -29,9 +29,11 @@ This project uses 3 datasets in total:
 
 
 ### Table of Content
-| Plugin | README |
+| Main | README |
 | ------ | ------ |
-| Project Overview | [plugins/dropbox/README.md][PlDb]   | 
+| Dataset | [main/Data/README.md][PlDs] | 
 |  |  | 
 |  |  | 
 |  |  | 
+
+[PlDs]: <[https://github.com/NitanTanta/BAIS3250_Project/blob/main/Data/README.md]>
