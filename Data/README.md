@@ -23,7 +23,7 @@
 
 
 
-### XLS File Description
+### CSV/XLS File Description
 **1. sp500_stocks.xls** (Final cleaned and merged dataset)
 Contains one row per S&P 500 stock with enriched metrics for all research questions. Includes latest OHLC data, calculated volatility, buy/sell/hold signals, volume spike analysis, and machine learning predictions.
 _**Key Fields:**_
