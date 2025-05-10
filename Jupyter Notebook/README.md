@@ -1,10 +1,10 @@
 # Jupyter Notebook Description
 
-**ntantawichian_project.ipynb**  
-_**Main Jupyter Noterbook for S&P500 Stock Analysis Project**_  
+### ntantawichian_project.ipynb  
+**Main Jupyter Noterbook for S&P500 Stock Analysis Project**  
 This notebook contains the full end-to-end workflow for analyzing S&P 500 stock data. It integrates data wrangling, exploratory analysis, machine learning, and forecasting to answer four research questions.
 
-#### Key Features:
+### Key Features:
 **1. Data Collection & Cleaning**
 - Web scraped current stock performance from TradingView
 - Web scraped industry sector and ticker from Wikipedia
